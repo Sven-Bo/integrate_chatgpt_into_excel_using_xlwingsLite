@@ -16,7 +16,7 @@ No need to install Python. No coding required. Just copy, paste, and start using
 Use the exact file I showed in the video, including all the code and formulas.  
 Click below to download it:
 
-[![Download Excel File](https://img.shields.io/badge/⬇️%20Download--green?style=for-the-badge)](./xlwings_lite__openai_integration.xlsx)
+[![Download Excel File](https://img.shields.io/badge/⬇️%20Download--green?style=for-the-badge)](https://github.com/Sven-Bo/integrate_chatgpt_into_excel_using_xlwingsLite/raw/refs/heads/main/xlwings_lite__openai_integration.xlsx)
 
 
 
